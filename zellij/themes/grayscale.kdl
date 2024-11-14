@@ -1,0 +1,15 @@
+themes {
+    grayscale {
+        fg "#FFFFFF"
+        bg "#000000"
+        black "#000000"
+        red "#FFFFFF"
+        green "#FFFFFF"
+        yellow "#FFFFFF"
+        blue "#FFFFFF"
+        magenta "#FFFFFF"
+        cyan "#FFFFFF"
+        white "#FFFFFF"
+        orange "#FFFFFF"
+    }
+}
